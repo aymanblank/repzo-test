@@ -1,6 +1,5 @@
-
 {
-  "location": {
+  "location" : {
     "type": "FeatureCollection",
     "features": [
       {
